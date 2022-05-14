@@ -1,7 +1,7 @@
 
 ## About the Project
 
-- This project is a simple PCB for an STM32 Nucleo-64 Hat that provides an interface between the hat and an Analog Devices [ ADF-702X ] (https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-adf7021-n.html) development board and a Texas Instruments [ CC112X EMK ] (https://www.ti.com/tool/CC1120EMK-420-470) development board.
+- This project is a simple PCB for an STM32 Nucleo-64 Hat that provides an interface between the hat and an Analog Devices [ADF-702X](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-adf7021-n.html) development board and a Texas Instruments [CC112X EMK](https://www.ti.com/tool/CC1120EMK-420-470) development board.
 
 
 ![Schematic](https://github.com/JKI757/Nucleo_Dual_DaughterBoard_ADF702X_CC112X/blob/master/images/Schematic.png "Schematic" )
